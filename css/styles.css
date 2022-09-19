@@ -11493,3 +11493,7 @@ p {
 .site-heading-lower{
   color: #FF0000;
 }
+
+#footertext {
+  font-size: 22px;
+}
