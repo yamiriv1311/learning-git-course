@@ -11491,5 +11491,13 @@ p {
 }
 
 .site-heading-lower{
+<<<<<<< HEAD
   color: #lightyellow;
+=======
+  color: #FF0000;
+}
+
+#footertext {
+  font-size: 22px;
+>>>>>>> featureC
 }
